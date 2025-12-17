@@ -1,1 +1,1 @@
-this is an counter app with js.
+This is a counter app with js.
